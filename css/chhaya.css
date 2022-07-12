@@ -1,0 +1,12 @@
+h1 {
+	color: #FF7C00;
+	text-align: center;
+	border: double;
+	border-color: rgba(0, 255, 191, 0.45);
+}
+
+p {
+	color: #05D8FF;
+	border: dashed;
+	border-color: gold;
+}

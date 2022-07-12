@@ -1,0 +1,17 @@
+h1 {
+	color: #59FF59;
+}
+
+p {
+	text-align: right;
+	color: #AD0046;
+	border-style: dotted;
+	border-color: #FE0023;
+}
+
+p {
+	text-align: center;
+	color: #8C4F01;
+	border-style: dashed;
+	border-color: #FE0023;
+}
