@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2{
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+}
